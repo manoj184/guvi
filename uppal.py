@@ -1,3 +1,3 @@
-x1234=input()
-print(x1234[::-1])
+manju1=input()
+print(manju1[::-1])
 

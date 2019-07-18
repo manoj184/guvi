@@ -1,0 +1,5 @@
+yerasi=input()
+manoj=input()
+kumar=manoj.split()
+reddy=''.join(kumar)
+print(''.join((sorted(reddy,reverse = True))))
